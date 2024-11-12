@@ -7,3 +7,5 @@ related:
 - class
 - eclipse
 - springboot
+- exception
+- extends
