@@ -8,4 +8,6 @@ related:
 - class
 - eclipse
 - springboot
+- exception
 - inherit
+- extends
