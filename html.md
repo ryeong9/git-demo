@@ -1,6 +1,7 @@
 category: html
-lectures: kim
+lectures: Lee
 related:
--css
--javascript
--tag
+
+- css
+- javascript
+- tag

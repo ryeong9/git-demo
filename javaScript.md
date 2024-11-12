@@ -1,5 +1,6 @@
 category: javascript
 lectures: Shin
 related:
--typescript
--React
+
+- typescript
+- React
